@@ -1,0 +1,15 @@
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Login.csprojAssemblyReference.cache
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Pacientes.frmLogin.resources
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Pacientes.Properties.Resources.resources
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Login.csproj.GenerateResource.cache
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Login.csproj.CoreCompileInputs.cache
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\Pacientes.exe.config
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\Pacientes.exe
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\Pacientes.pdb
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\MySql.Data.dll
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\Google.Protobuf.dll
+D:\João Pedro 3TE\Login\Pacientes\bin\Debug\MySql.Data.xml
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Login.csproj.CopyComplete
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Pacientes.exe
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Pacientes.pdb
+D:\João Pedro 3TE\Login\Pacientes\obj\Debug\Pacientes.frmCadastroPaciente.resources
